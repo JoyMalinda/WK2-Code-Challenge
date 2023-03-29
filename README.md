@@ -3,6 +3,7 @@
 ### Koki Malida : 24 March 2023
 ****
 ## Project Description
+Using Javascript to manipulate the DOM, making the web application interactive.
 
 ********
 ## SetUp Instruction
